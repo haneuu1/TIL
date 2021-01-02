@@ -96,7 +96,7 @@ VSC (Version Control System)
 
 - home directory(`~`)를 git repository로 만들게 되면 안된다.
 
-  --> 하위 디렉토리에 git repo가 또 있으면 sub repo가 생성되어 일반적인? git이 아니게 된다.
+  --> 하위 디렉토리에 git repo가 또 있으면 sub module이 되어 일반적인? git이 아니게 된다.
 
 - `$ git log` 를 통해 5개 이상의 commit이 있으면 q를 눌러 빠져 나온다.
 
